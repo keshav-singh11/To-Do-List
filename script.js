@@ -1,5 +1,5 @@
 const todoList = [{
-  name: 'Sample(delete it)',
+  name: 'Sample (Delete it)',
   dueDate: '2024-03-20'
 }];
 
